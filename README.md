@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohan.
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning PHP, HTML, CSS and JS.
-- 💞️ I’m not ooking to collaborate on anything currently.
+- 💞️ I’m not looking to collaborate on anything currently.
 - 📫 You can reach me at https://github.com/r0hanr0n
 
 <!---
